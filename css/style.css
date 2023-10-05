@@ -1,0 +1,110 @@
+.my-bg{
+background-image: url("../images/bg4.jpg");
+  background-size: cover;
+} 
+
+
+.my-resume{
+font-family: 'Mitr', sans-serif;
+  font-size: 60px;
+}
+
+.my-info {
+ font-family: 'Mitr', sans-serif;
+ font-size: 30px;
+}
+
+.my-name {
+ font-family: 'Sarabun', sans-serif;
+ font-size: 20px;
+}
+
+.my-textborder{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+}
+
+.my-center{
+ text-align: center;
+}
+
+.my-img{
+  max-width: 100%;
+  max-height:100%; 
+}
+
+
+.my-padding{
+padding-top: 200px;
+padding-left: 150px;
+padding-right: 150px;
+}
+
+.my-edupadding{
+padding-left: 800px;
+
+}
+
+.my-border{
+ background-color: white;
+  border: 2px solid black;
+}
+
+.my-hrcolor{
+ border-top: 2px solid black;
+} 
+
+.my-contact{
+ font-family: 'Mitr', sans-serif;
+ font-size: 30px;
+}
+.my-email{
+ font-family: 'Mitr', sans-serif;
+ font-size: 20px;
+}
+.my-eminfo{
+font-family: 'Sarabun', sans-serif;
+font-size: 20px;
+}
+
+.my-year{
+   font-family: 'Mitr', sans-serif;
+ font-size: 25px;
+}
+
+
+.my-skill{
+  font-family: 'Mitr', sans-serif;
+  font-size: 30px;
+}
+
+
+
+* {box-sizing:border-box}
+
+.container {
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 100%; background-color: #04AA6D;} /* Green */
+.css {width: 70%; background-color: #2196F3;} /* Blue */
+.php {width: 50%; background-color: #808080;} /* Dark Grey */
+.js {width: 50%; background-color: #f44336;} /* Red */
+
+.ms {width: 90%; background-color: #04AA6D;} /* Green */
+.ps {width: 70%; background-color: #2196F3;} /* Blue */
+.hc {width: 60%; background-color: #808080;} /* Dark Grey */
+
+.my-skinfo{
+  font-family: 'Mitr', sans-serif;
+  font-size: 20px;
+}
