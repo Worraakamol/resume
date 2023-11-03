@@ -11,12 +11,12 @@ font-family: 'Mitr', sans-serif;
 
 .my-info {
  font-family: 'Mitr', sans-serif;
- font-size: 30px;
+ font-size: 20px;
 }
 
 .my-name {
  font-family: 'Sarabun', sans-serif;
- font-size: 20px;
+ font-size: 18px;
 }
 
 .my-textborder{
@@ -36,9 +36,8 @@ font-family: 'Mitr', sans-serif;
 
 
 .my-padding{
-padding-top: 200px;
-padding-left: 150px;
-padding-right: 150px;
+padding-top: 150px;
+
 }
 
 .my-edupadding{
@@ -71,7 +70,6 @@ font-size: 20px;
 .my-year{
    font-family: 'Mitr', sans-serif;
  font-size: 25px;
-color: #3300CC;
 }
 
 
